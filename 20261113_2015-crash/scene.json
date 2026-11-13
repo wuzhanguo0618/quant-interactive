@@ -4,6 +4,7 @@
   "year": "2015",
   "subtitle": "五个时点，决定你的净值",
   "index_name": "沪深300",
+  "url": "https://wuzhanguo0618.github.io/quant-interactive/20261113_2015-crash/",
   "start": "2014-11-28",
   "end": "2016-06-30",
   "base": 2808.819,
@@ -47961,5 +47962,6 @@
     "rank": 105
   },
   "total_combos": 243,
-  "disclaimer": "历史模拟，不计交易费用与杠杆；仅用于市场观察，不构成投资建议，不可作为实盘交易依据。"
+  "disclaimer": "历史模拟，不计交易费用与杠杆；仅用于市场观察，不构成投资建议，不可作为实盘交易依据。",
+  "qr": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZoAAAGaAQAAAAAefbjOAAADt0lEQVR4nO1c3Y2jQAy2ASmPg5QCUsrQQUqKtqTtgCllCzgJHiOBfPLPAFndC5fVJoD9kMWAJcbj9c9nAxKsplSslwFwISNXhJErYjOK6NGo6REh1QCIWPHFEREzm2+qNrGm9eRCC0WUJCRHYiBEdEdslK2AqAOAKDfxkWtv/2aE+r8f7og3IsKmP5F4C4hsG+wo1Jc0L3m8leRCzyiiWjL9mRD6Gihd7kjQV8O/hVzlR7GIwHYAHD7ER1wHIDaQFz5e4UKvsQiaeAQoB4xdjcrET2ZbvhTEVH738QoXeoUiRq0i1DNEyR05qYwdZ5ZCfQWQ5CbxGL5PRntUBNCCOjGB8oENRNTO55jaN19T4ULPWUQnG89JJP9IkdkGLkbDAHKktWkkZtk23CIOYHvx62RgQ6pHKzL5nMaUBkYkySXUcraxpnXkQpmIKLsHjRDsGdg2zB8oK1Fj8iCuPaM9KgJsu7tsArzxGkk0s5RIItnmHFPefE2FCz2dWQInCZY48DnxDGwgYgzCGsbtecTeba9ipHKgVHfcwzgRxu48aLkJ4Q+DEiWzJ0LOKCg1G1hT4UJPIlQjAgTGo9gzAAyQzULsgHPM7szo5XlACBxAXOVGe1QEWAoRcgI5RYgcPx6ACq8+j4JHxPyTO98CRVhaofe1czny5msqXOgHogYAUKpLwNgOlYDXCKG0qGEs/5F+qKvcaMcodqtMhq2tBM1zMgtH4bXGEabqKsCbhok7UsusTdVZp0umaHLUcMxyU5v7H7QYqIvqD6b0UrLNPEtn+JUkn2++psKFfgCzVLLWVsalcs9LWI0kTG4RB5mhwvhZ85AMMihBDEqMlQAVSunKINYvP17hQq/CI2AqPHMPwyLEokCVqx419m+wYQBsgo3j00edG+E8fqs3yVT2lGhuYU3ryYW+dcPBvEWeoZqTynJKJrzTdRwzIt5z9RHUCWBVMmuzM3jTSMIuw6vPzW3uWpqTBHosM+yqFBe56vBa41h4BGQAYkYqbXJKw8kEYb75mgoX+rFZbMj9Le148nWdoTJwyidm9m97kPNJmDZejr/1Q+fXN7z6PNS74SNCukjUkMJzRPq4DFp9LoLIFta0mlzoAbNEHZ4LpE1vSigfCuBzTPbSHyClq89QHcmMevlWhL2gYZWmtELZUWgQ+fIvihxNKOmXJBjHzHiE2QE7icbxiC1v7sreJ3Bp+fCWn8ET89i+V59HqzXAGl8Tip0nLqdi1GuNvQuhf71wE/tUuJCSK8Lo9xTxF22W/zOFqpwTAAAAAElFTkSuQmCC"
 }
